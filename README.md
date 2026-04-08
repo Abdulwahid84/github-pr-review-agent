@@ -1,6 +1,6 @@
 # 🚀 Automated GitHub Pull Request Review Agent
 
-A Python-based backend system that uses AI to automatically review GitHub Pull Requests using a multi-agent architecture powered by Google Gemini.
+A Python-based backend system that uses AI to automatically review GitHub Pull Requests using a multi-agent architecture powered by Google Gemini. 
 
 ## 🎯 Features
 
