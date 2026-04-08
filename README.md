@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ### **Step 1: Generate GitHub Personal Access Token (PAT)**
 
-1. Go to [GitHub Settings → Developer Settings → Personal Access Tokens → Tokens (classic)](https://github.com/settings/tokens)
+1. Go to [GitHub Settings → Developer Settings → Personal Access Tokens → Tokens (classic)](https://github.com/settings/tokens)  
 2. Click **"Generate new token (classic)"**
 3. Give it a descriptive name (e.g., "PR Review Agent")
 4. Select scopes:
